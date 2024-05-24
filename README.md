@@ -2,7 +2,7 @@
 
 # eVitelRx
 
-# Hi, I'm Katherine! 👋
+### Hi, I'm Ketul! 👋
 
 here i used MySQL Workbench 8.0 CE for database. 
 
