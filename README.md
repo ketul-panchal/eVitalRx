@@ -1,6 +1,6 @@
 
 
-# eVitelRx
+# eVitalRx
 
 ### Hi, I'm Ketul! 👋
 
