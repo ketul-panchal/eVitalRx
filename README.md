@@ -12,7 +12,7 @@ in database i used Sequelize and MVC Framework for make this project more clean 
 
 
  
-for database attached Schema file.
+for database i aslo attached Schema file.
 
 i try to handel all type of error, inserted middelware for authentication. 
 
