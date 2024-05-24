@@ -2,6 +2,8 @@
 
 # eVitelRx
 
+# Hi, I'm Katherine! 👋
+
 here i used MySQL Workbench 8.0 CE for database. 
 
 in database i used Sequelize and MVC Framework for make this project more clean and create database at a time of run this project.
