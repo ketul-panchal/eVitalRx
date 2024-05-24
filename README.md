@@ -12,7 +12,7 @@ for database attached Schema file.
 
 i try to handel all type of error, inserted middelware for authentication. 
 
-i try to use passport-local, sessoin and cookie but i make code more complex without front-end so i used jsonwebtoken "jwt".
+i was try to use passport-local, sessoin and cookie but it make code more complex without front-end so instant of that i used jsonwebtoken "jwt".
 
 
 ## run this project using
