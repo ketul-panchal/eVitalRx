@@ -4,7 +4,7 @@
 
 here i used MySQL Workbench 8.0 CE for database. 
 
-in database i used Sequelize and MVC Framework if you run using nodemon index.js or node index.js all table autometically created.
+in database i used Sequelize and MVC Framework for make this project more clean and create database at a time of run this project.
 
 
  
