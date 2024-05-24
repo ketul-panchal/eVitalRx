@@ -8,7 +8,7 @@
 
 here i used MySQL Workbench 8.0 CE for database. 
 
-in database i used Sequelize and MVC Framework for make this project more clean and create database at a time of run this project.
+in database i used Sequelize and crated all models separately and also used MVC Framework for make this project more clean and create database at a time of run this project.
 
 all user login and signup authentication included like hasing, jwt tokens
  
@@ -17,6 +17,16 @@ for database i aslo attached Schema file.
 i try to handel all type of error, inserted middelware for authentication. 
 
 i was try to use passport-local, sessoin and cookie but it make code more complex without front-end so instant of that i used jsonwebtoken "jwt".
+
+covered all the routes
+
+`Signup`
+`Login`
+`Place Order`
+`Get Orders`
+`Add to Cart`
+`Checkout`
+`Logout`
 
 
 ## run this project using
