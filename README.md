@@ -34,11 +34,15 @@ or
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`DB_HOST=`
-`DB_USER=`
-`DB_PASS=`
-`DB_NAME=`
-`JWT_SECRET=`
+`DB_HOST`
+
+`DB_USER`
+
+`DB_PASS`
+
+`DB_NAME`
+
+`JWT_SECRET`
 
 `PORT=`
 
