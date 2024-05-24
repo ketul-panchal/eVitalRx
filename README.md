@@ -13,9 +13,7 @@ for database attached Schema file.i try to handel all type of error, inserted mi
 i try to use passport-local, sessoin and cookie but i make code more complex without front-end so i used jsonwebtoken "jwt".
 
 
-## Deployment
-
-To deploy this project run
+## run this project using
 
 ```bash
    nodemon index.js
