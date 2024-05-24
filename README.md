@@ -4,6 +4,8 @@
 
 ### Hi, I'm Ketul! 👋
 
+###
+
 here i used MySQL Workbench 8.0 CE for database. 
 
 in database i used Sequelize and MVC Framework for make this project more clean and create database at a time of run this project.
@@ -28,6 +30,17 @@ or
    node index.js
 ```
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`DB_HOST=`
+`DB_USER=`
+`DB_PASS=`
+`DB_NAME=`
+`JWT_SECRET=`
+
+`PORT=`
 
 
 
