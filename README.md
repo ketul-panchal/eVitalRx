@@ -58,9 +58,9 @@ To run this project, you will need to add the following environment variables to
 
 ## TASK 2
 
-i use join query, group by, having and aggregate function to achieve desire resualt.
+i use join query, group by, having and aggregate function to achieve desire results.
 
-also attached Schema file
+also attached Schema file.
 
 
 
